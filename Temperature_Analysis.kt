@@ -3,9 +3,9 @@ import kotlin.math.roundToLong
 
 /*
 * Objective: Daily Temperature Analysis
-* Class: 2025 SU ITSE-1329-23701
+* Class: 2025 SU ITSE-1329
 * Instructor: Professor Vo
-* Student: Angel Silva, ID 2521604
+* Student: Angel Silva
 * Date: 07/21/2025
 */
 
